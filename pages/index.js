@@ -22,7 +22,7 @@ export default function Home(props) {
   return (
     <div className={styles.container}>
       <Head>
-        <title> Ginger: Crypto Dashboard</title>
+        <title> JavaCrypt Dashboard</title>
 
 
         <link rel="icon" href="/favicon.ico" />
@@ -31,7 +31,8 @@ export default function Home(props) {
       <p> </p>
       <p> </p>
       
-      <h1>Ginger: Crypto Dashboard</h1>
+      <h1>JavaCrypt Dashboard</h1>
+      <h1> **Search Bar here**</h1>
 
       <p> </p>
       <p> </p>
