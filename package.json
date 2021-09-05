@@ -12,9 +12,18 @@
     "coingecko-api": "^1.0.10",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3"
   },
   "engines": {
     "node": "12.x"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^2.0.1",
+    "jest": "^26.6.3",
+    "supertest": "^6.1.4"
   }
 }
